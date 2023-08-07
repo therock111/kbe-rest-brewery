@@ -6,9 +6,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.UUID;
 
-/**
- * Created by jt on 2019-04-21.
- */
+
 @Slf4j
 @Service
 public class CustomerServiceImpl implements CustomerService {
